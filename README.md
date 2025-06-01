@@ -86,3 +86,6 @@ Email: wanjiruregina678@gmail.com
 
 🌟 Happy Hostel Management System!
 You are all welcome to our hostels
+
+📝 License
+This project is open-source and free to use for learning purposes.
