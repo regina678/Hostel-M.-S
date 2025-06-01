@@ -66,7 +66,7 @@ def manage_students():
             phone = click.prompt("Phone (07XXXXXXXX)")
             
             if not validate_phone(phone):
-                click.echo("Invalid Kenyan phone number! Must start with 07 and be 10 digits.")
+                click.echo("Invalid phone number! Must start with 07 and be 10 digits.")
                 click.pause()
                 continue
                 
@@ -510,7 +510,7 @@ def manage_managers():
             phone = click.prompt("Phone (07XXXXXXXX)")
             
             if not validate_phone(phone):
-                click.echo("Invalid Kenyan phone number! Must start with 07 and be 10 digits.")
+                click.echo("Invalid  phone number! Must start with 07 and be 10 digits.")
                 click.pause()
                 continue
                 
